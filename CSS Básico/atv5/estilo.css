@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+a {
+    display: inline;
+
+    text-decoration: none;
+
+    margin-right: 20px;
+
+    color: darkblue;
+
+    font-size: 20px;
+}

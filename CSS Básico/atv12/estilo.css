@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+
+    font-family: Arial, sans-serif;
+
+    background-color: #f0f0f0;
+}
+
+.galeria {
+    display: flex;
+
+    justify-content: center;
+
+    gap: 20px;
+
+    margin-top: 50px;
+}
+
+img {
+    width: 200px;
+
+    height: 200px;
+
+    border: 4px solid black;
+
+    border-radius: 10px;
+}
